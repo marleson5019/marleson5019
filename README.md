@@ -1,59 +1,54 @@
 <div align="center">
 
-<samp>PLAYER PROFILE // @marleson5019</samp>
-
 # Marlyson Rodrigues Souza
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1100&color=A78BFA&background=0D1117&center=true&vCenter=true&width=700&height=70&lines=%3E+Inicializando+perfil...;%3E+Mobile+dev+%2B+intelig%C3%AAncia+artificial;%3E+Miss%C3%A3o+atual%3A+Eyessistant" alt="Terminal animado: inicializando perfil; mobile dev e inteligência artificial; missão atual: Eyessistant" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1400&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=Mobile+Development+%26+AI;Building+Eyessistant;Creating+Spotiguess;Computer+Science+at+IFES" alt="Animated introduction: mobile development and AI, Eyessistant, Spotiguess, computer science at IFES" />
 
-<samp>BUILD. LEARN. RESPAWN.</samp>
+<p>Computer science student at IFES, interested in AI, web development and building useful applications.</p>
 
-[ START: EYESSISTANT ](https://github.com/marleson5019/eyessistant) · [ SELECT: REPOSITÓRIOS ](https://github.com/marleson5019?tab=repositories)
+[Eyessistant](https://eyessistant.netlify.app/) &nbsp; / &nbsp; [Spotiguess](https://spotiguess-two.vercel.app) &nbsp; / &nbsp; [Repositories](https://github.com/marleson5019?tab=repositories)
 
 </div>
 
 ---
 
-### `01 / PLAYER INFO`
+### About
 
-Estou desenvolvendo o **Eyessistant**, um projeto que conecta desenvolvimento mobile e inteligência artificial aplicada à análise de imagens oculares.
+I explore the connection between interfaces, APIs and artificial intelligence through hands-on projects. My work includes mobile applications, computer vision and interactive web experiences.
 
-Nesse trabalho, exploro a integração entre aplicativo, API e modelos de visão computacional — da interface à execução das predições.
+I also participate in science and technology olympiads.
 
-### `02 / LOADOUT`
-
-Tecnologias que uso no Eyessistant:
+### Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/TypeScript-151B23?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-151B23?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-151B23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Python-151B23?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-151B23?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/ONNX-151B23?style=for-the-badge&logo=onnx&logoColor=63B3ED" alt="ONNX" />
 </p>
 
-### `03 / MAIN QUEST`
+### Projects
 
-#### Eyessistant
+#### [Eyessistant](https://eyessistant.netlify.app/)
 
-Aplicativo com **React Native e Expo**, conectado a uma **API em Python com FastAPI** para integrar um modelo de detecção de catarata em formato **ONNX**.
+An application that brings mobile development and AI together for ocular image analysis. Built with React Native and Expo, connected to a Python API for computer vision inference.
 
-O projeto reúne interface mobile, envio de imagens e processamento com inteligência artificial.
+`React Native` · `TypeScript` · `Expo` · `FastAPI` · `ONNX`
 
-```text
-MISSION   Integrar aplicativo, API e visão computacional
-CLIENT    React Native / Expo / TypeScript
-SERVER    Python / FastAPI
-MODEL     ONNX
-```
+[Explore the web app](https://eyessistant.netlify.app/) · [Open the Telegram bot](https://t.me/Eyessistant_bot)
 
-**[Abrir projeto](https://github.com/marleson5019/eyessistant)**
+#### [Spotiguess](https://spotiguess-two.vercel.app)
+
+A music quiz connected to Spotify playlists, with solo play and real-time multiplayer rooms. Players listen to the same track excerpt and compete to identify it.
+
+`JavaScript` · `Spotify Web Playback SDK` · `Socket.IO`
+
+[Try the app](https://spotiguess-two.vercel.app) · [Source code](https://github.com/marleson5019/spotiguess)
 
 ---
 
 <div align="center">
-
-<samp>SAVE POINT // Cada versão, um novo aprendizado.</samp>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2400&pause=2000&color=8B949E&center=true&vCenter=true&width=650&height=35&lines=Interfaces.+APIs.+Computer+vision.;From+an+idea+to+a+working+application." alt="Animated footer: interfaces, APIs, computer vision; from an idea to a working application" />
 </div>
